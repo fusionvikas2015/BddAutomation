@@ -3,13 +3,16 @@
 *.log
 *.cachefile
 *.Cache
+*.exe
 *.pyc
 *.idea
 *.ova
 *.iso
 *.rar
+*.zip
 *.tar
 *.__pycache__
+jenkins_user_inputs.txt
 
 [Ll]ogs/
 [Rr]eports/
