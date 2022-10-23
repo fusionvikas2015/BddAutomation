@@ -3,13 +3,11 @@
 *.log
 *.cachefile
 *.Cache
-*.exe
 *.pyc
 *.idea
 *.ova
 *.iso
 *.rar
-*.zip
 *.tar
 *.__pycache__
 
